@@ -7,3 +7,5 @@ PRAW - The Python Reddit API Wrapper,
 Pyperclip,
 PyAutoGUI,
 Pillow (PIL Fork)
+
+This script uses Selenium to circumvent the Reddit API limitation of not being able to attach images to comments.
